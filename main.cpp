@@ -31,6 +31,10 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓更新処理ここから
 		///
 
+		Novice::DrawTriangle(0, 0, 0, 0, 0, 0, WHITE, kFillModeSolid);
+		Novice::DrawTriangle(0, 0, 0, 0, 0, 0, WHITE, kFillModeSolid);
+		Novice::DrawTriangle(0, 0, 0, 0, 0, 0, WHITE, kFillModeSolid);
+
 		///
 		/// ↑更新処理ここまで
 		///
